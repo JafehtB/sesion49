@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+#titulo{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(59, 21, 21);
+}
+
+#parrafo1{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 20px;
+    color:brown;
+}
